@@ -1,0 +1,148 @@
+/******************* Tag Selector ***************/
+body {
+  color: #40514e;
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+  font-family: Sacramento;
+  font-size: 5.625rem;
+  margin: 2rem auto 0 auto;
+  color: #66BFBF;
+}
+
+h2 {
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+h3 {
+  color: #11999E;
+}
+
+a {
+  color: #11999E;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #eaf6f6;
+}
+
+span {
+  text-decoration: underline;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #EAF6F6;
+  border-width: 5px;
+  height: 3px;
+  width: 5%;
+  margin: 100px auto;
+}
+
+p {
+  line-height: 2;
+}
+
+/******************* Class Selector ***************/
+.top-container {
+  background-color: #E4F9F5;
+  padding-top: 100px;
+  position: relative;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 40px;
+  right: 300px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+
+.middle-container {
+  margin: 100px 0;
+}
+
+.ishan {
+  width: 20%;
+}
+
+.intro {
+  width: 30%;
+  margin: auto;
+}
+
+.computer {
+  float: left;
+  width: 25%;
+  margin-right: 20px;
+  border-radius: 100px;
+}
+
+.photoshop {
+  float: right;
+  width: 25%;
+  margin-left: 20px;
+}
+
+.guitar{
+  float: left;;
+  width: 25%;
+  margin-right: 20px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.contact-me{
+  margin-bottom: 50px;
+}
+.contact-message {
+  width: 30%;
+  margin: 40px auto 40px;
+  display: none;
+}
+
+.btn {
+  color: white;
+  background-color: #11999E;
+  padding: 10px;
+  border-radius: 5px;
+  text-decoration: none;
+
+
+}
+
+.btn:hover {
+  background-color: #349feb;
+}
+
+.bottom-container {
+  background-color: #66bfbf;
+  padding: 50px 0 20px;
+  margin-top: 20px;
+}
+
+.copyright {
+  color: #eaf6f6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+
+.copyright:hover{
+  color: black;
+}
